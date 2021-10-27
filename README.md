@@ -1,2 +1,2 @@
 # Discord.bas
-Discord library written in Rust and C for clibasic
+Discord bot that runs clibasic code
